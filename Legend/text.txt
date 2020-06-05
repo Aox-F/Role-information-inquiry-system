@@ -1,0 +1,7 @@
+Hero's name: dandan
+Hero's career: ELF
+Hero's level: 0
+hero's blood: 1500
+Hero's damage: 100
+Hero's damage_scale: 50
+Hero's defense: 100
